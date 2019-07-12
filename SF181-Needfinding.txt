@@ -1,7 +1,12 @@
 "Students who struggle with Time Management": Interview Questions
 
-1. Basic Info: Name, Age, Gender, Course
+1. Basic Info: Name, Age, Gender, Year Level, Strand/Course
 2. Do you have any activities outside academics? (e.g. social media, organization activities, other hobbies?)
 3. When and how long do you spend time on the activities?
 4. What is your status in acadmics (describe by GPA or others)?
 5. Do you struggle with handling academics and your other activities? How? [Question to find out their needs].
+
+Prospect Interviewees:
+- Junior High School Students
+- Senior High School Students
+- College Students
